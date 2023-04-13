@@ -18,7 +18,7 @@ param searchServiceResourceGroupName string = ''
 param searchServiceResourceGroupLocation string = location
 
 param searchServiceSkuName string = 'standard'
-param searchIndexName string = 'gptkbindex'
+param searchIndexName string = 'azureblob-index'
 
 param storageAccountName string = ''
 param storageResourceGroupName string = ''
